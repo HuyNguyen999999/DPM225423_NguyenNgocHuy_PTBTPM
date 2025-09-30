@@ -1,17 +1,32 @@
+using System;
+
 namespace DPM225423_NguyenNgocHuy_Myworld06_Bridge
 {
-    internal static class Program
+    /// <summary>
+    /// Bridge Design Pattern - Myworld Example
+    /// </summary>
+    public class Program
     {
-        /// <summary>
-        ///  The main entry point for the application.
-        /// </summary>
-        [STAThread]
-        static void Main()
+        public static void Main(string[] args)
         {
-            // To customize application configuration such as set high DPI settings or default font,
-            // see https://aka.ms/applicationconfiguration.
-            ApplicationConfiguration.Initialize();
-            Application.Run(new Form1());
+            // Create RefinedAbstraction
+            var characters = new Characters();
+
+            // Set ConcreteImplementor
+            characters.Data = new CharactersData("Eldoria");
+
+            // Exercise the bridge
+            characters.Show();
+            characters.Next();
+            characters.Show();
+            characters.Next();
+            characters.Show();
+            characters.Add("Luna Starlight");
+
+            characters.ShowAll();
+
+            // Wait for user
+            Console.ReadKey();
         }
     }
 }
