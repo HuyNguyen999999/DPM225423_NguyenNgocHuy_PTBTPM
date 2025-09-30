@@ -3,37 +3,43 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225423_NguyenNgocHuy_Pattern01_AbstractFactory", "DPM225423_NguyenNgocHuy_Pattern01_AbstractFactory\DPM225423_NguyenNgocHuy_Pattern01_AbstractFactory.csproj", "{480E8E17-A9E0-4729-A728-A30C0F47F275}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225423_NguyenNgocHuy_Pattern01_AbstractFactory", "DPM225423_NguyenNgocHuy_Pattern01_AbstractFactory\DPM225423_NguyenNgocHuy_Pattern01_AbstractFactory.csproj", "{480E8E17-A9E0-4729-A728-A30C0F47F275}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225423_NguyenNgocHuy_Real01_AbstractFactory", "DPM225423_NguyenNgocHuy_Real01_AbstractFactory\DPM225423_NguyenNgocHuy_Real01_AbstractFactory.csproj", "{9AE61156-4960-46A2-9812-2142AD368CFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225423_NguyenNgocHuy_Real01_AbstractFactory", "DPM225423_NguyenNgocHuy_Real01_AbstractFactory\DPM225423_NguyenNgocHuy_Real01_AbstractFactory.csproj", "{9AE61156-4960-46A2-9812-2142AD368CFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225423_NguyenNgocHuy_Myworld01_AbstractFactory", "DPM225423_NguyenNgocHuy_Myworld01_AbstractFactory\DPM225423_NguyenNgocHuy_Myworld01_AbstractFactory.csproj", "{FC44F02E-3149-410F-AC18-4100290B9C2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225423_NguyenNgocHuy_Myworld01_AbstractFactory", "DPM225423_NguyenNgocHuy_Myworld01_AbstractFactory\DPM225423_NguyenNgocHuy_Myworld01_AbstractFactory.csproj", "{FC44F02E-3149-410F-AC18-4100290B9C2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225423_NguyenNgocHuy_Pattern01_Builder", "DPM225423_NguyenNgocHuy_Pattern01_Builder\DPM225423_NguyenNgocHuy_Pattern01_Builder.csproj", "{3D495669-7431-4D85-8F51-F99E9DB2F72C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225423_NguyenNgocHuy_Pattern01_Builder", "DPM225423_NguyenNgocHuy_Pattern01_Builder\DPM225423_NguyenNgocHuy_Pattern01_Builder.csproj", "{3D495669-7431-4D85-8F51-F99E9DB2F72C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225423_NguyenNgocHuy_Real01_Builder", "DPM225423_NguyenNgocHuy_Real01_Builder\DPM225423_NguyenNgocHuy_Real01_Builder.csproj", "{D42C199C-F41A-4722-BF1C-D4F1190E5382}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225423_NguyenNgocHuy_Real01_Builder", "DPM225423_NguyenNgocHuy_Real01_Builder\DPM225423_NguyenNgocHuy_Real01_Builder.csproj", "{D42C199C-F41A-4722-BF1C-D4F1190E5382}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225423_NguyenNgocHuy_Myworld01_Builder", "DPM225423_NguyenNgocHuy_Myworld01_Builder\DPM225423_NguyenNgocHuy_Myworld01_Builder.csproj", "{AAA8E182-9779-4221-A8AC-9D81D011CB13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225423_NguyenNgocHuy_Myworld01_Builder", "DPM225423_NguyenNgocHuy_Myworld01_Builder\DPM225423_NguyenNgocHuy_Myworld01_Builder.csproj", "{AAA8E182-9779-4221-A8AC-9D81D011CB13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225423_NguyenNgocHuy_Pattern01_FactoryMethod", "DPM225423_NguyenNgocHuy_Pattern01_FactoryMethod\DPM225423_NguyenNgocHuy_Pattern01_FactoryMethod.csproj", "{E5266F7F-9AF0-45ED-B2BC-21B090E8E3AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225423_NguyenNgocHuy_Pattern01_FactoryMethod", "DPM225423_NguyenNgocHuy_Pattern01_FactoryMethod\DPM225423_NguyenNgocHuy_Pattern01_FactoryMethod.csproj", "{E5266F7F-9AF0-45ED-B2BC-21B090E8E3AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225423_NguyenNgocHuy_Real01_FactoryMethod", "DPM225423_NguyenNgocHuy_Real01_FactoryMethod\DPM225423_NguyenNgocHuy_Real01_FactoryMethod.csproj", "{CB424B44-1D04-4992-9B09-9C99D895D6DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225423_NguyenNgocHuy_Real01_FactoryMethod", "DPM225423_NguyenNgocHuy_Real01_FactoryMethod\DPM225423_NguyenNgocHuy_Real01_FactoryMethod.csproj", "{CB424B44-1D04-4992-9B09-9C99D895D6DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225423_NguyenNgocHuy_Pattern01_Prototype", "DPM225423_NguyenNgocHuy_Pattern01_Prototype\DPM225423_NguyenNgocHuy_Pattern01_Prototype.csproj", "{622EAC1E-EF94-4DC7-8FC5-2CA91739CF71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225423_NguyenNgocHuy_Pattern01_Prototype", "DPM225423_NguyenNgocHuy_Pattern01_Prototype\DPM225423_NguyenNgocHuy_Pattern01_Prototype.csproj", "{622EAC1E-EF94-4DC7-8FC5-2CA91739CF71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225423_NguyenNgocHuy_Real01_Prototype", "DPM225423_NguyenNgocHuy_Real01_Prototype\DPM225423_NguyenNgocHuy_Real01_Prototype.csproj", "{68A79CDD-534D-4A97-A378-C9E8298DFAFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225423_NguyenNgocHuy_Real01_Prototype", "DPM225423_NguyenNgocHuy_Real01_Prototype\DPM225423_NguyenNgocHuy_Real01_Prototype.csproj", "{68A79CDD-534D-4A97-A378-C9E8298DFAFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225423_NguyenNgocHuy_Myworld01_Prototype", "DPM225423_NguyenNgocHuy_Myworld01_Prototype\DPM225423_NguyenNgocHuy_Myworld01_Prototype.csproj", "{17927FD3-6A1C-46BF-920C-E092A7E1CD79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225423_NguyenNgocHuy_Myworld01_Prototype", "DPM225423_NguyenNgocHuy_Myworld01_Prototype\DPM225423_NguyenNgocHuy_Myworld01_Prototype.csproj", "{17927FD3-6A1C-46BF-920C-E092A7E1CD79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225423_NguyenNgocHuy_Pattern01_Singleton", "DPM225423_NguyenNgocHuy_Myworld01_Singleton\DPM225423_NguyenNgocHuy_Pattern01_Singleton.csproj", "{98A5DC5D-83DA-4A3C-9245-6999393A7E16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225423_NguyenNgocHuy_Real01_Singleton", "DPM225423_NguyenNgocHuy_Real01_Singleton\DPM225423_NguyenNgocHuy_Real01_Singleton.csproj", "{427D9781-E041-4A49-A5A2-4F6DCEB44545}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225423_NguyenNgocHuy_Real01_Singleton", "DPM225423_NguyenNgocHuy_Real01_Singleton\DPM225423_NguyenNgocHuy_Real01_Singleton.csproj", "{427D9781-E041-4A49-A5A2-4F6DCEB44545}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225423_NguyenNgocHuy_Myworld1_Singleton", "DPM225423_NguyenNgocHuy_Myworld1_Singleton\DPM225423_NguyenNgocHuy_Myworld1_Singleton.csproj", "{EAB249DC-3AB1-4A8D-8F76-BB1B457C8D4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225423_NguyenNgocHuy_Myworld1_Singleton", "DPM225423_NguyenNgocHuy_Myworld1_Singleton\DPM225423_NguyenNgocHuy_Myworld1_Singleton.csproj", "{EAB249DC-3AB1-4A8D-8F76-BB1B457C8D4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225423_NguyenNgocHuy_Pattern01_Adapter", "DPM225423_NguyenNgocHuy_Pattern01_Adapter\DPM225423_NguyenNgocHuy_Pattern01_Adapter.csproj", "{528CF05D-552F-4C60-AF78-1D34C2AC9AB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225423_NguyenNgocHuy_Pattern01_Adapter", "DPM225423_NguyenNgocHuy_Pattern01_Adapter\DPM225423_NguyenNgocHuy_Pattern01_Adapter.csproj", "{528CF05D-552F-4C60-AF78-1D34C2AC9AB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225423_NguyenNgocHuy_Real01_Adapter", "DPM225423_NguyenNgocHuy_Real01_Adapter\DPM225423_NguyenNgocHuy_Real01_Adapter.csproj", "{90E59201-636E-4918-9CEE-0ED46E969B05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225423_NguyenNgocHuy_Real01_Adapter", "DPM225423_NguyenNgocHuy_Real01_Adapter\DPM225423_NguyenNgocHuy_Real01_Adapter.csproj", "{90E59201-636E-4918-9CEE-0ED46E969B05}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225423_NguyenNgocHuy_Myworld05_Adapter", "DPM225423_NguyenNgocHuy_Myworld05_Adapter\DPM225423_NguyenNgocHuy_Myworld05_Adapter.csproj", "{27B9CABE-653F-4B52-91F9-16AA9EFDA2FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225423_NguyenNgocHuy_Pattern06_Bridge", "DPM225423_NguyenNgocHuy_Pattern06_Bridge\DPM225423_NguyenNgocHuy_Pattern06_Bridge.csproj", "{AEA1A9E8-C603-4F45-B7F1-4A89A1CECDDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225423_NguyenNgocHuy_Real06_Bridge", "DPM225423_NguyenNgocHuy_Real06_Bridge\DPM225423_NguyenNgocHuy_Real06_Bridge.csproj", "{B2E678FE-9AFB-4896-94EA-F32EAEE02CC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225423_NguyenNgocHuy_Myworld06_Bridge", "DPM225423_NguyenNgocHuy_Myworld06_Bridge\DPM225423_NguyenNgocHuy_Myworld06_Bridge.csproj", "{1639CB68-C666-4BE2-8FB1-B3C777204A34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -85,10 +91,6 @@ Global
 		{17927FD3-6A1C-46BF-920C-E092A7E1CD79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17927FD3-6A1C-46BF-920C-E092A7E1CD79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17927FD3-6A1C-46BF-920C-E092A7E1CD79}.Release|Any CPU.Build.0 = Release|Any CPU
-		{98A5DC5D-83DA-4A3C-9245-6999393A7E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{98A5DC5D-83DA-4A3C-9245-6999393A7E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{98A5DC5D-83DA-4A3C-9245-6999393A7E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{98A5DC5D-83DA-4A3C-9245-6999393A7E16}.Release|Any CPU.Build.0 = Release|Any CPU
 		{427D9781-E041-4A49-A5A2-4F6DCEB44545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{427D9781-E041-4A49-A5A2-4F6DCEB44545}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{427D9781-E041-4A49-A5A2-4F6DCEB44545}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -105,6 +107,22 @@ Global
 		{90E59201-636E-4918-9CEE-0ED46E969B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90E59201-636E-4918-9CEE-0ED46E969B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90E59201-636E-4918-9CEE-0ED46E969B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27B9CABE-653F-4B52-91F9-16AA9EFDA2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B9CABE-653F-4B52-91F9-16AA9EFDA2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B9CABE-653F-4B52-91F9-16AA9EFDA2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B9CABE-653F-4B52-91F9-16AA9EFDA2FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEA1A9E8-C603-4F45-B7F1-4A89A1CECDDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA1A9E8-C603-4F45-B7F1-4A89A1CECDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA1A9E8-C603-4F45-B7F1-4A89A1CECDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA1A9E8-C603-4F45-B7F1-4A89A1CECDDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E678FE-9AFB-4896-94EA-F32EAEE02CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E678FE-9AFB-4896-94EA-F32EAEE02CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E678FE-9AFB-4896-94EA-F32EAEE02CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E678FE-9AFB-4896-94EA-F32EAEE02CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1639CB68-C666-4BE2-8FB1-B3C777204A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1639CB68-C666-4BE2-8FB1-B3C777204A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1639CB68-C666-4BE2-8FB1-B3C777204A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1639CB68-C666-4BE2-8FB1-B3C777204A34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
